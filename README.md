@@ -23,10 +23,10 @@ Dongho's Personal
 <div align="center"><img width="259" alt="image" src="https://github.com/LeeDongho-ISPL/Personal/assets/101514571/d101a40e-d7f7-4290-854a-3d69a11634dd"></div>
 <div align="center"> Table 3. Comparisons of the number of network parameters </div>
 
-![image](https://github.com/LeeDongho-ISPL/Personal/assets/101514571/2d8ca8e8-d5f4-4c64-beeb-dbb0d0cf7e26)
+<div align="center"><img width="257" alt="image" src="https://github.com/LeeDongho-ISPL/Personal/assets/101514571/6392e783-3f24-4ab4-9b3f-71905b82ce68"></div>
 <div align="center"> Table 4. Comparisons of the total memory size </div>
 
-<div align="center">![image](https://github.com/LeeDongho-ISPL/Personal/assets/101514571/2c85ffb7-9397-4533-91c3-5d4330100151)</div>
+![image](https://github.com/LeeDongho-ISPL/Personal/assets/101514571/9d7e0bbc-2a45-4cf9-9cc8-7310fdcdc444)
 <div align="center"> Fig. 5. Trade-off the VSR methods on REDS4 test dataset </div>
 
 ![image](https://github.com/LeeDongho-ISPL/Personal/assets/101514571/827a0898-b7df-4076-b36a-e290e0809b63)
