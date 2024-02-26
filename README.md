@@ -3,7 +3,7 @@ Dongho's Personal
 
 [2023_멀티미디어_5권_이동호.pdf](https://github.com/LeeDongho-ISPL/Personal/files/14399561/2023_._5._.pdf)
 
-<img width="527" alt="image" src="https://github.com/LeeDongho-ISPL/Personal/assets/101514571/6d965934-7c2a-4437-afe5-e25dfffa9ec7">
+<div align="center"><img width="527" alt="image" src="https://github.com/LeeDongho-ISPL/Personal/assets/101514571/6d965934-7c2a-4437-afe5-e25dfffa9ec7"></div>
 
 
 
