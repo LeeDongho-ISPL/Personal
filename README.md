@@ -1,5 +1,5 @@
-# Personal
-Dongho's Personal
+# Residual Dense Block 기반 변형 가능한 합성곱 정렬 신경망을 이용한 비디오 초해상화 방법
+
 
 [2023_멀티미디어_5권_이동호.pdf](https://github.com/LeeDongho-ISPL/Personal/files/14399561/2023_._5._.pdf)
 
