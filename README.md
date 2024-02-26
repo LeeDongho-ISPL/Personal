@@ -17,16 +17,16 @@ Dongho's Personal
 <div align="center"><img width="529" alt="image" src="https://github.com/LeeDongho-ISPL/Personal/assets/101514571/c2e99ca4-b84e-4461-923c-298369c67da9"></div>
 <div align="center"> Table 1. Average PSNR (dB) on test dataset </div>
 
-<img width="519" alt="image" src="https://github.com/LeeDongho-ISPL/Personal/assets/101514571/37030fc2-c5a9-4d9a-a2f3-84728f6f11dd">
+<div align="center"><img width="519" alt="image" src="https://github.com/LeeDongho-ISPL/Personal/assets/101514571/37030fc2-c5a9-4d9a-a2f3-84728f6f11dd"></div>
 <div align="center"> Table 2. Average SSIM on test dataset </div>
 
-<img width="259" alt="image" src="https://github.com/LeeDongho-ISPL/Personal/assets/101514571/d101a40e-d7f7-4290-854a-3d69a11634dd">
+<div align="center"><img width="259" alt="image" src="https://github.com/LeeDongho-ISPL/Personal/assets/101514571/d101a40e-d7f7-4290-854a-3d69a11634dd"></div>
 <div align="center"> Table 3. Comparisons of the number of network parameters </div>
 
-<img width="249" alt="image" src="https://github.com/LeeDongho-ISPL/Personal/assets/101514571/5dbb1b42-8afc-452a-9e88-8fb44335a1a0">
+<div align="center"><img width="249" alt="image" src="https://github.com/LeeDongho-ISPL/Personal/assets/101514571/5dbb1b42-8afc-452a-9e88-8fb44335a1a0"></div>
 <div align="center"> Table 4. Comparisons of the total memory size </div>
 
-![image](https://github.com/LeeDongho-ISPL/Personal/assets/101514571/2c85ffb7-9397-4533-91c3-5d4330100151)
+<div align="center">![image](https://github.com/LeeDongho-ISPL/Personal/assets/101514571/2c85ffb7-9397-4533-91c3-5d4330100151)</div>
 <div align="center"> Fig. 5. Trade-off the VSR methods on REDS4 test dataset </div>
 
 ![image](https://github.com/LeeDongho-ISPL/Personal/assets/101514571/827a0898-b7df-4076-b36a-e290e0809b63)
