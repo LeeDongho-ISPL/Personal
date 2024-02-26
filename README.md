@@ -14,7 +14,7 @@ Dongho's Personal
 ![image](https://github.com/LeeDongho-ISPL/Personal/assets/101514571/4081fb90-1792-44ee-9a20-77d438ea069a)
 <div align="center"> Fig. 4. The architecture of Up-sampling block </div>
 
-<img width="529" alt="image" src="https://github.com/LeeDongho-ISPL/Personal/assets/101514571/c2e99ca4-b84e-4461-923c-298369c67da9">
+<div align="center"><img width="529" alt="image" src="https://github.com/LeeDongho-ISPL/Personal/assets/101514571/c2e99ca4-b84e-4461-923c-298369c67da9"></div>
 <div align="center"> Table 1. Average PSNR (dB) on test dataset </div>
 
 <img width="519" alt="image" src="https://github.com/LeeDongho-ISPL/Personal/assets/101514571/37030fc2-c5a9-4d9a-a2f3-84728f6f11dd">
