@@ -1,6 +1,11 @@
 # Personal
 Dongho's Personal
 
+[2023_멀티미디어_5권_이동호.pdf](https://github.com/LeeDongho-ISPL/Personal/files/14399561/2023_._5._.pdf)
+
+<img width="527" alt="image" src="https://github.com/LeeDongho-ISPL/Personal/assets/101514571/6d965934-7c2a-4437-afe5-e25dfffa9ec7">
+
+
 
 ![image](https://github.com/LeeDongho-ISPL/Personal/assets/101514571/645cd55a-e285-4813-a2db-11a14b5ebb38)
  <div align="center"> Fig. 1. Overall architecture of the proposed RDAN </div>
